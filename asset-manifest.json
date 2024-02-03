@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/glucomate/static/js/main.9009e754.js",
+    "static/media/Mascot.png": "/glucomate/static/media/Mascot.79c9f37c7d826ccc7bd6.png",
+    "static/media/Summary.png": "/glucomate/static/media/Summary.e350420614884776670c.png",
+    "static/media/DietPlan.png": "/glucomate/static/media/DietPlan.4884c4e050049eec6dd9.png",
+    "index.html": "/glucomate/index.html",
+    "main.9009e754.js.map": "/glucomate/static/js/main.9009e754.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9009e754.js"
+  ]
+}
